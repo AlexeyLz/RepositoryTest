@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hello_world/result.dart';
 import './quiz.dart';
-// комментарий новый 22222222
+
 void main() {
   runApp(MyApp());
 }
@@ -11,6 +11,7 @@ class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
 }
+//comm   новая ветка
 
 class _MyAppState extends State<MyApp> {
   final _questions = const [
