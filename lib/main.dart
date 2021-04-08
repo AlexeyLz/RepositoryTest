@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_hello_world/result.dart';
 import './quiz.dart';
-
+// комментарий
 void main() {
   runApp(MyApp());
 }
