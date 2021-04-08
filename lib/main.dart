@@ -11,7 +11,7 @@ class MyApp extends StatefulWidget {
   @override
   _MyAppState createState() => _MyAppState();
 }
-//comm   новая ветка
+//comm   новая ветка  part2
 
 class _MyAppState extends State<MyApp> {
   final _questions = const [
